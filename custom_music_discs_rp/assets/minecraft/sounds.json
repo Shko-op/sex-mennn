@@ -1,0 +1,19 @@
+{
+	"music_disc.demise": {
+		"sounds": [
+			{
+				"name": "records/demise",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.medivo": {
+		"sounds": [
+			{
+				"name": "records/medivo",
+				"stream": true
+			}
+		]
+	}
+}

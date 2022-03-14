@@ -1,0 +1,19 @@
+{
+	"music_disc.abandoned": {
+		"sounds": [
+			{
+				"name": "records/abandoned",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.ascend": {
+		"sounds": [
+			{
+				"name": "records/ascend",
+				"stream": true
+			}
+		]
+	}
+}

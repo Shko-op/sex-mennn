@@ -1,7 +1,7 @@
 Installation:
 
-Place the custom_music_discs_rp resourcepack in your .minecraft/resource packs folder.
-Place the custom_music_discs_dp datapack in the /datapacks folder of your world (or worlds).
+Place the Gexor Resources resourcepack in your .minecraft/resource packs folder.
+Place the Gexor Data datapack in the /datapacks folder of your world (or worlds).
 Open Minecraft and apply the resource pack like you would any other resourcepack.
 Open your world. If "Geoxor Discs (real) by - Shkoop" appears in chat, you are done. Otherwise you can manually run the /reload command.
 

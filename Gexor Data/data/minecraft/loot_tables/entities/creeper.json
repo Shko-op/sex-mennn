@@ -63,7 +63,7 @@
         {
           "condition": "minecraft:entity_properties",
           "predicate": {
-            "type": "#minecraft:player"
+            "type": "#minecraft:skeletons"
           },
           "entity": "killer"
         }

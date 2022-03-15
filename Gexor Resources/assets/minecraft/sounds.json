@@ -15,5 +15,409 @@
 				"stream": true
 			}
 		]
+	},
+	"music_disc.aurora": {
+		"sounds": [
+			{
+				"name": "records/aurora",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.bloodlust": {
+		"sounds": [
+			{
+				"name": "records/bloodlust",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.blusk": {
+		"sounds": [
+			{
+				"name": "records/blusk",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.cheese": {
+		"sounds": [
+			{
+				"name": "records/cheese",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.dead": {
+		"sounds": [
+			{
+				"name": "records/dead",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.ephemeral": {
+		"sounds": [
+			{
+				"name": "records/ephemeral",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.euphoria": {
+		"sounds": [
+			{
+				"name": "records/euphoria",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.euphoria2": {
+		"sounds": [
+			{
+				"name": "records/euphoria2",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.faerie": {
+		"sounds": [
+			{
+				"name": "records/faerie",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.funkyworld": {
+		"sounds": [
+			{
+				"name": "records/funkyworld",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.galaxy": {
+		"sounds": [
+			{
+				"name": "records/galaxy",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.gloom": {
+		"sounds": [
+			{
+				"name": "records/gloom",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.goodcomputers": {
+		"sounds": [
+			{
+				"name": "records/goodcomputers",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.gottalay": {
+		"sounds": [
+			{
+				"name": "records/gottalay",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.hate": {
+		"sounds": [
+			{
+				"name": "records/hate",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.healher": {
+		"sounds": [
+			{
+				"name": "records/healher",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.higher": {
+		"sounds": [
+			{
+				"name": "records/higher",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.lollipop": {
+		"sounds": [
+			{
+				"name": "records/lollipop",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.longtimes": {
+		"sounds": [
+			{
+				"name": "records/longtimes",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.low": {
+		"sounds": [
+			{
+				"name": "records/low",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.luciddream": {
+		"sounds": [
+			{
+				"name": "records/luciddream",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.makemestrong": {
+		"sounds": [
+			{
+				"name": "records/makemestrong",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.midnight": {
+		"sounds": [
+			{
+				"name": "records/midnight",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.moneko": {
+		"sounds": [
+			{
+				"name": "records/moneko",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.moonlight": {
+		"sounds": [
+			{
+				"name": "records/moonlight",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.move": {
+		"sounds": [
+			{
+				"name": "records/move",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.nana": {
+		"sounds": [
+			{
+				"name": "records/nana",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.nandayo": {
+		"sounds": [
+			{
+				"name": "records/nandayo",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.neoneyes": {
+		"sounds": [
+			{
+				"name": "records/neoneyes",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.onlynow": {
+		"sounds": [
+			{
+				"name": "records/onlynow",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.pixels": {
+		"sounds": [
+			{
+				"name": "records/pixels",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.poi": {
+		"sounds": [
+			{
+				"name": "records/poi",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.restart": {
+		"sounds": [
+			{
+				"name": "records/restart",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.sakura": {
+		"sounds": [
+			{
+				"name": "records/sakura",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.shaii": {
+		"sounds": [
+			{
+				"name": "records/shaii",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.stardust": {
+		"sounds": [
+			{
+				"name": "records/stardust",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.takemehome": {
+		"sounds": [
+			{
+				"name": "records/takemehome",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.timeless": {
+		"sounds": [
+			{
+				"name": "records/timeless",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.turnaround": {
+		"sounds": [
+			{
+				"name": "records/turnaround",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.twilight": {
+		"sounds": [
+			{
+				"name": "records/twilight",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.vanilla": {
+		"sounds": [
+			{
+				"name": "records/vanilla",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.virtual": {
+		"sounds": [
+			{
+				"name": "records/virtual",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.woosh": {
+		"sounds": [
+			{
+				"name": "records/woosh",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.world": {
+		"sounds": [
+			{
+				"name": "records/worldismine",
+				"stream": true
+			}
+		]
+	},
+	
+	"music_disc.you": {
+		"sounds": [
+			{
+				"name": "records/youandi",
+				"stream": true
+			}
+		]
 	}
 }

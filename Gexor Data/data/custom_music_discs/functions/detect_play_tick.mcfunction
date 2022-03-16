@@ -1,5 +1,51 @@
 execute as @a[scores={usedDisc=2, heldDisc=1}] run function custom_music_discs:play_abandoned
 execute as @a[scores={usedDisc=2, heldDisc=2}] run function custom_music_discs:play_ascend
+execute as @a[scores={usedDisc=2, heldDisc=3}] run function custom_music_discs:play_aurora
+execute as @a[scores={usedDisc=2, heldDisc=4}] run function custom_music_discs:play_bloodlust
+execute as @a[scores={usedDisc=2, heldDisc=5}] run function custom_music_discs:play_blusk
+execute as @a[scores={usedDisc=2, heldDisc=6}] run function custom_music_discs:play_cheese
+execute as @a[scores={usedDisc=2, heldDisc=7}] run function custom_music_discs:play_dead
+execute as @a[scores={usedDisc=2, heldDisc=8}] run function custom_music_discs:play_ephemeral
+execute as @a[scores={usedDisc=2, heldDisc=9}] run function custom_music_discs:play_euphoria
+execute as @a[scores={usedDisc=2, heldDisc=10}] run function custom_music_discs:play_euphoria2
+execute as @a[scores={usedDisc=2, heldDisc=11}] run function custom_music_discs:play_faerie
+execute as @a[scores={usedDisc=2, heldDisc=12}] run function custom_music_discs:play_funkyworld
+execute as @a[scores={usedDisc=2, heldDisc=13}] run function custom_music_discs:play_galaxy
+execute as @a[scores={usedDisc=2, heldDisc=14}] run function custom_music_discs:play_gloom
+execute as @a[scores={usedDisc=2, heldDisc=15}] run function custom_music_discs:play_goodcomputers
+execute as @a[scores={usedDisc=2, heldDisc=16}] run function custom_music_discs:play_gottalay
+execute as @a[scores={usedDisc=2, heldDisc=17}] run function custom_music_discs:play_hate
+execute as @a[scores={usedDisc=2, heldDisc=18}] run function custom_music_discs:play_healher
+execute as @a[scores={usedDisc=2, heldDisc=19}] run function custom_music_discs:play_higher
+execute as @a[scores={usedDisc=2, heldDisc=20}] run function custom_music_discs:play_lollipop
+execute as @a[scores={usedDisc=2, heldDisc=21}] run function custom_music_discs:play_longtimes
+execute as @a[scores={usedDisc=2, heldDisc=22}] run function custom_music_discs:play_low
+execute as @a[scores={usedDisc=2, heldDisc=23}] run function custom_music_discs:play_luciddream
+execute as @a[scores={usedDisc=2, heldDisc=24}] run function custom_music_discs:play_makemestrong
+execute as @a[scores={usedDisc=2, heldDisc=25}] run function custom_music_discs:play_midnight
+execute as @a[scores={usedDisc=2, heldDisc=26}] run function custom_music_discs:play_moneko
+execute as @a[scores={usedDisc=2, heldDisc=27}] run function custom_music_discs:play_moonlight
+execute as @a[scores={usedDisc=2, heldDisc=28}] run function custom_music_discs:play_move
+execute as @a[scores={usedDisc=2, heldDisc=29}] run function custom_music_discs:play_nana
+execute as @a[scores={usedDisc=2, heldDisc=30}] run function custom_music_discs:play_nandayo
+execute as @a[scores={usedDisc=2, heldDisc=31}] run function custom_music_discs:play_neoneyes
+execute as @a[scores={usedDisc=2, heldDisc=32}] run function custom_music_discs:play_onlynow
+execute as @a[scores={usedDisc=2, heldDisc=33}] run function custom_music_discs:play_pixels
+execute as @a[scores={usedDisc=2, heldDisc=34}] run function custom_music_discs:play_poi
+execute as @a[scores={usedDisc=2, heldDisc=35}] run function custom_music_discs:play_restart
+execute as @a[scores={usedDisc=2, heldDisc=36}] run function custom_music_discs:play_sakura
+execute as @a[scores={usedDisc=2, heldDisc=37}] run function custom_music_discs:play_shaii
+execute as @a[scores={usedDisc=2, heldDisc=38}] run function custom_music_discs:play_stardust
+execute as @a[scores={usedDisc=2, heldDisc=39}] run function custom_music_discs:play_takemehome
+execute as @a[scores={usedDisc=2, heldDisc=40}] run function custom_music_discs:play_timeless
+execute as @a[scores={usedDisc=2, heldDisc=41}] run function custom_music_discs:play_turnaround
+execute as @a[scores={usedDisc=2, heldDisc=42}] run function custom_music_discs:play_twilight
+execute as @a[scores={usedDisc=2, heldDisc=43}] run function custom_music_discs:play_vanilla
+execute as @a[scores={usedDisc=2, heldDisc=44}] run function custom_music_discs:play_virtual
+execute as @a[scores={usedDisc=2, heldDisc=45}] run function custom_music_discs:play_woosh
+execute as @a[scores={usedDisc=2, heldDisc=46}] run function custom_music_discs:play_worldismine
+execute as @a[scores={usedDisc=2, heldDisc=47}] run function custom_music_discs:play_youandi
+
 
 execute as @a[scores={usedDisc=2..}] run scoreboard players set @s usedDisc 0
 scoreboard players add @a[scores={usedDisc=1}] usedDisc 1
